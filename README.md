@@ -47,6 +47,7 @@ Mods on this list are marked as outdated when they are *two* major Minecraft ver
 - [FabricCrossDimTPFix](https://modrinth.com/mod/FabricCrossDimTPFix)
 - [Illegal Stack Fixer](https://www.curseforge.com/minecraft/mc-mods/illegal-stack-fixer)
 - [Chunk Saving Fix](https://www.curseforge.com/minecraft/mc-mods/chunk-saving-fix)
+- [Boat Fall](https://modrinth.com/mod/boat-fall)
 
 ## Utility / Quality of Life
 - [Couplings](https://www.curseforge.com/minecraft/mc-mods/couplings) (works best with client mod installed)
